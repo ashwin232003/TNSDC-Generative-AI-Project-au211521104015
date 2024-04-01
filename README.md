@@ -12,7 +12,6 @@ To get started, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies by running `pip install -r requirements.txt`.
-3. Download the Fashion MINIST dataset and place it in the `data/` directory.
 
 ## Usage
 
