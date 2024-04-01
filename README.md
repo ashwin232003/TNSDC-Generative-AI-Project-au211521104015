@@ -11,7 +11,7 @@ This repository contains code for training a Generative Adversarial Network (GAN
 To get started, follow these steps:
 
 1. Clone this repository to your local machine.
-2. Install the necessary dependencies by running `pip install -r requirements.txt`.
+2. Install the necessary dependency 
 
 ## Usage
 
